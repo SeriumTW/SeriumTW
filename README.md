@@ -25,11 +25,13 @@ const emanuele = {
 
 </div>
 
+<div align="center">
+
 ## 💼 Professional Journey
 
-<table>
+<table align="center">
 <tr>
-<td>
+<td align="center">
 
 **🏢 Current Position**
 ```
@@ -39,7 +41,7 @@ Full-Stack Developer
 ```
 
 </td>
-<td>
+<td align="center">
 
 **🌌 Founder & CEO**
 ```
@@ -51,7 +53,7 @@ nebulastudio.dev
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td align="center" colspan="2">
 
 **🔧 Previous Experience**
 ```
@@ -64,9 +66,11 @@ Junior Full-Stack Developer
 </tr>
 </table>
 
-## 🎓 Education & Certifications
+</div>
 
 <div align="center">
+
+## 🎓 Education & Certifications
 
 | 🎯 **Course** | 🏛️ **Institution** | 📅 **Period** | 🏆 **Status** |
 |:-------------:|:------------------:|:--------------:|:--------------:|
@@ -75,9 +79,9 @@ Junior Full-Stack Developer
 
 </div>
 
-## 🛠️ Tech Arsenal
-
 <div align="center">
+
+## 🛠️ Tech Arsenal
 
 ### Frontend Magic ✨
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -121,9 +125,9 @@ Junior Full-Stack Developer
 
 </div>
 
-## 📊 GitHub Analytics
-
 <div align="center">
+
+## 📊 GitHub Analytics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -136,9 +140,9 @@ Junior Full-Stack Developer
 
 </div>
 
-## 🏆 Skills Showcase
-
 <div align="center">
+
+## 🏆 Skills Showcase
 
 ### 💻 Development Methodologies
 ```
@@ -154,6 +158,8 @@ Junior Full-Stack Developer
 
 </div>
 
+<div align="center">
+
 ## 🌟 What I'm Up To
 
 ```javascript
@@ -166,17 +172,19 @@ const currentFocus = {
 };
 ```
 
-## 📈 Activity Graph
+</div>
 
 <div align="center">
+
+## 📈 Activity Graph
 
 ![Emanuele's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuo-username&theme=tokyo-night)
 
 </div>
 
-## 🏆 GitHub Trophies
-
 <div align="center">
+
+## 🏆 GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=tuo-username&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
