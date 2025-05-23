@@ -1,13 +1,197 @@
-<h1 align="center">Hi 👋, I'm Emanuele</h1>
-<h3 align="center">A passionate coding and videogames from Italy</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Mobile development and frontend**
+# 👨‍💻 Emanuele Denaro
 
-- 📫 How to reach me **edenaro14@gmail.com**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Flutter;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-denaro/)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seriumbusiness@gmail.com)
+[![Nebula Studios](https://img.shields.io/badge/-Nebula%20Studios-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white)](https://www.nebulastudio.dev/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me
+
+```javascript
+const emanuele = {
+    location: "Priolo Gargallo, Italy 🇮🇹",
+    currentRole: "Full-Stack Developer @ Lynx S.p.A.",
+    founder: "Nebula Studios 🌌",
+    education: "Computer Science @ Pegaso University",
+    interests: ["Web Development", "Mobile Apps", "Cloud Computing", "Team Leadership"],
+    motto: "Always learning, always growing! 🌱"
+};
+```
+
+</div>
+
+## 💼 Professional Journey
+
+<table>
+<tr>
+<td>
+
+**🏢 Current Position**
+```
+Lynx S.p.A.
+Full-Stack Developer
+09/2022 - Present
+```
+
+</td>
+<td>
+
+**🌌 Founder & CEO**
+```
+Nebula Studios
+Founder
+nebulastudio.dev
+```
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**🔧 Previous Experience**
+```
+GIS International s.r.l
+Junior Full-Stack Developer
+04/2022 - 07/2022
+```
+
+</td>
+</tr>
+</table>
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+| 🎯 **Course** | 🏛️ **Institution** | 📅 **Period** | 🏆 **Status** |
+|:-------------:|:------------------:|:--------------:|:--------------:|
+| Computer Science | Pegaso University | 12/2023 - Present | 📚 In Progress |
+| FullStack Developer | Aulab | 09/2021 - 12/2021 | ✅ Completed |
+
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Magic ✨
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend Power 💪
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Mobile Development 📱
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Databases & Cloud ☁️
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Tools & Version Control 🔧
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuo-username&theme=tokyonight)
+
+</div>
+
+## 🏆 Skills Showcase
+
+<div align="center">
+
+### 💻 Development Methodologies
+```
+🔄 Agile Development    🎯 Scrum Master       📋 Kanban Boards
+🧪 Test-Driven Dev     🏗️ Object-Oriented    🔗 API Integration
+```
+
+### 🤝 Soft Skills
+```
+👥 Team Leadership     🎯 Goal-Oriented      💡 Problem Solving
+⏰ Time Management     📢 Clear Communication 🚀 Self-Motivated
+```
+
+</div>
+
+## 🌟 What I'm Up To
+
+```javascript
+const currentFocus = {
+    🎓 studying: "Advanced Computer Science concepts",
+    🔨 building: "Scalable web applications with React & Node.js",
+    🌌 leading: "Nebula Studios - Creating digital experiences",
+    🌱 learning: "Cloud architecture and DevOps practices",
+    🎯 goal: "Becoming a tech lead in a dynamic team"
+};
+```
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![Emanuele's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tuo-username&theme=tokyo-night)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=tuo-username&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+*"Aspiro a lavorare in team dinamici dove posso mettere a disposizione le mie competenze tecniche, collaborare su progetti ambiziosi e imparare continuamente."*
+
+**🌟 Always open to new challenges and collaborations! 🌟**
+
+<img src="https://komarev.com/ghpvc/?username=tuo-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
