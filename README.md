@@ -1,6 +1,3 @@
-Sì, assolutamente. Qui sotto è ripulito da ogni riferimento a Nebula, incluso badge, esperienza, progetto e link.
-
-```md
 <div align="center">
 
 # Emanuele Denaro
@@ -84,4 +81,3 @@ Sono interessato a collaborazioni e opportunità in ambito:
 **Parliamone** — sono raggiungibile via [LinkedIn](https://www.linkedin.com/in/emanuele-denaro/) o [email](mailto:seriumbusiness@gmail.com).
 
 </div>
-```
